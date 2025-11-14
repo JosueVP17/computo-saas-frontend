@@ -90,9 +90,5 @@ function logout() {
   store.logout();
 }
 
-function upgrade() {
-  alert("Actualizando plan");
-}
-
 onMounted(load);
 </script>
